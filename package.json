@@ -1,0 +1,10 @@
+{
+  "name": "intuit-coding-challenge",
+  "version": "1.0.0",
+  "description": "Intuit Coding Challenge: REST API with AWS Lambda and S3",
+  "author": "Jeremiah Harris",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
